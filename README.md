@@ -8,3 +8,5 @@
 - 🤔 I’m looking for an internship between 14 and 18 weeks starting from 12/04/2022 and ending 27/08/2021.
 - 📫 How to reach me: adrienkamdemad@gmail.com
 - ⚡ Fun fact: I'm practicing 🥋 I'm 5 yo.
+- 💡 Each project have a ReadMe file explaining its purpose (go check them out 😉)
+
