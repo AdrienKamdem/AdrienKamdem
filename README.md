@@ -1,6 +1,4 @@
-## Hi there, I'm Adrien 👋
-
-### I'm an french engineer student in applied mathematics
+### MEng Applied Mathematics/ MSc Data Science
 
 #### This is where I opensource my different mini-projects
 
