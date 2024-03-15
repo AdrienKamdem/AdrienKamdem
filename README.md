@@ -1,4 +1,4 @@
-### MEng Applied Mathematics/ MSc Data Science
+### MEng Applied Mathematics
 
 #### This is where I opensource my different mini-projects
 
