@@ -1,4 +1,4 @@
-### MEng Applied Mathematics
+### BSc Mathematics
 
 #### This is where I opensource my different mini-projects
 
